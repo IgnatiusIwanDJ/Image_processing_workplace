@@ -1,2 +1,4 @@
-# Image_processing_workplace
-Only my space for university homework on image processing
+# Tugas matkul PCD 2
+1 --> Contrast Stretching
+
+2 --> Histogram Equalization
